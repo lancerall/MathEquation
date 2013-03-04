@@ -6,7 +6,7 @@ date_default_timezone_set('America/Chicago');
 
 $CONFIG_dbaddress = "127.0.0.1";
 $CONFIG_dbuser = "root";
-$CONFIG_dbpass = "silicon";
+//$CONFIG_dbpass = "whatever";
 $CONFIG_dbname = "math";
 $CONFIG_truncate_at_start = false;
 
